@@ -1,2 +1,3 @@
 primer archivo para mandar al repositorio (de git a github)
 siguiente comentario (de giyhub a git)
+con este mensaje, culminaria el mensaje de git a github
